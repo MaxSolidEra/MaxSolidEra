@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxSolidEra
-- 👀 I’m interested in ...Solid's lasting success
-- 🌱 I’m currently learning ...best practices for Solid
-- 💞️ I’m looking to collaborate on ...recruiting Solid developers
+- 👀 I’m interested in ...humane technology
+- 🌱 I’m currently learning ... recruiting placements for coders
+- 💞️ I’m looking to collaborate on Java, Ruby, Python, HTMIL C
 - 📫 How to reach me ...solidera.zbaaq@simplelogin.co
 
 <!---
